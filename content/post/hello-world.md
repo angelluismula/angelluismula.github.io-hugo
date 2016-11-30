@@ -1,7 +1,8 @@
 +++
-date = "2016-11-30T18:32:55+01:00"
+date = "2016-11-30T18:39:50+01:00"
 title = "hello world"
-draft = true
+draft = false
 
 +++
+
 Mi primera entrada hecha con gohugo.io
