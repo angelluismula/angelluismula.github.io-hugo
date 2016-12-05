@@ -14,30 +14,12 @@ paginate = 10
 # optionally override the site's footer with custom copyright text
 # copyright = "Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/)."
 #googleAnalytics = "UA-123-45"
-disqusShortname = "angellluismula-github-io"
+disqusShortname = "angelluismula-github-io"
 
 [permalinks]
   post = "/:year/:month/:title/"
   page = "/:slug/"
 
-[[menu.sidebar]]
-  name = "Link 1"
-  url = "https://example.com"
-
-[[menu.sidebar]]
-  name = "Link 2"
-  url = "https://example.org"
-
-# custom navbar menu entry.   See the custom_navbar parameter below for
-# details.
-
-#[[menu.navbar]]
-#  name = "Link 1"
-#  url = "https://example.org"
-
-
-# Theme variables
-#
 [params]
   cover = "images/cover.jpg"
   
@@ -53,9 +35,11 @@ disqusShortname = "angellluismula-github-io"
   authorlocation = "Madrid, España"
   authorwebsite = "http://angelluismula.github.io"
   bio= "author bio"
-  logo = "images/logo.png"
+  authorthumbnail= "images/logo.png"
+  logo = "images/logo2.png"
   githubName = "angelluismula"
   twitterName = "angelluismula"
+  linkedinName = "angel-luis-mula-jordan-9402345a"
 
 
 [taxonomies]
