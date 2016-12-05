@@ -1,5 +1,10 @@
 # Hugo variables
 #
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+builddrafts = false
+canonifyurls = true
 baseurl = "https://angelluismula.github.io"
 languageCode = "es-ES"
 title = "Blog personal de Ángel Luis Mula"
@@ -38,7 +43,7 @@ paginate = 10
   author = "Ángel Luis Mula"
 
   # Description/subtitle for homepage (can be Markdown)
-  description = "A simple Hugo theme based on the Bootstrap v4 blog example."
+  description = "Cosas interesantes que entre por ahí"
 
   # Format dates with Go's time formatting
   date_format = "Mon 02 Jan 2006"
@@ -97,3 +102,7 @@ DefaultContentLanguage = "es"
 # Languages to render
 #[languages.en]
 #[languages.bg]
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
