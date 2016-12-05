@@ -42,10 +42,10 @@ home: "home"
 highlight: "default"
 
     # Sidebar social links.
-github = "angelluismula" # Your Github profile ID
-linkedin = "angel-luis-mula-jordan-9402345a" # Your LinkedIn profile ID (from public URL)
-twitter = "angelluismula" # Your Twitter profile ID
-rss = true
+github: "angelluismula" # Your Github profile ID
+linkedin: "angel-luis-mula-jordan-9402345a" # Your LinkedIn profile ID (from public URL)
+twitter: "angelluismula" # Your Twitter profile ID
+rss: true
 
 blackfriday:
     angledQuotes: true
